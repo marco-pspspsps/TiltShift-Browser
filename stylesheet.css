@@ -1,0 +1,21 @@
+#container{
+    position: relative;
+}
+
+#imageDisplay{
+    width: 100%;
+}
+
+#lineDrawer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 2;
+}
+
+#resultDrawer{
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
